@@ -6,3 +6,7 @@ spring:
   config:
     import: configserver:http://localhost:8888
 #    import: optional:configserver://localhost:8888     if configuration is optional
+
+#  cloud:
+#    config:
+#      profile: dev # if the profile is dev in config-sever
