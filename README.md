@@ -14,4 +14,4 @@
 
 ## Config Profiles
 * To specify a profile, include following property in yml.
-```spring.cloud.profile=dev```
+```spring.cloud.config.profile=dev```
